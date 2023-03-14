@@ -9,5 +9,3 @@ while num !=0:
     num //= 10
     print('Текущая сумма: ', summ)
 print('\nИтоговая сумма равна: ', summ)
-
-print()
