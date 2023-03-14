@@ -1,3 +1,2 @@
 .DS_Store
-Logs/*.log
-!Logs/sample.log
+Test1.log
